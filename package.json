@@ -1,6 +1,6 @@
 {
+  "homepage": "https://ShafaghRastegari.github.io/my-personal-website",
   "name": "developers-portfolio",
-  "homepage": "https://shafaghrastegari.github.io/home",
   "version": "2.0.0",
   "private": true,
   "dependencies": {
