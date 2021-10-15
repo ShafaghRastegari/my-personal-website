@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/my-personal-website/static/css/main.de04c303.chunk.css",
-    "main.js": "/my-personal-website/static/js/main.367c1e0d.chunk.js",
-    "main.js.map": "/my-personal-website/static/js/main.367c1e0d.chunk.js.map",
-    "runtime-main.js": "/my-personal-website/static/js/runtime-main.68361c2f.js",
-    "runtime-main.js.map": "/my-personal-website/static/js/runtime-main.68361c2f.js.map",
-    "static/js/2.43528144.chunk.js": "/my-personal-website/static/js/2.43528144.chunk.js",
-    "static/js/2.43528144.chunk.js.map": "/my-personal-website/static/js/2.43528144.chunk.js.map",
-    "index.html": "/my-personal-website/index.html",
-    "precache-manifest.81a69d872a541a9f9f9a1c1f3f505204.js": "/my-personal-website/precache-manifest.81a69d872a541a9f9f9a1c1f3f505204.js",
-    "service-worker.js": "/my-personal-website/service-worker.js",
-    "static/css/main.de04c303.chunk.css.map": "/my-personal-website/static/css/main.de04c303.chunk.css.map",
-    "static/js/2.43528144.chunk.js.LICENSE.txt": "/my-personal-website/static/js/2.43528144.chunk.js.LICENSE.txt",
-    "static/media/Shafagh.png": "/my-personal-website/static/media/Shafagh.69498897.png",
-    "static/media/resume.pdf": "/my-personal-website/static/media/resume.9d3da0e2.pdf"
+    "main.css": "/ShafaghRastegari.github.io/static/css/main.de04c303.chunk.css",
+    "main.js": "/ShafaghRastegari.github.io/static/js/main.5a69df41.chunk.js",
+    "main.js.map": "/ShafaghRastegari.github.io/static/js/main.5a69df41.chunk.js.map",
+    "runtime-main.js": "/ShafaghRastegari.github.io/static/js/runtime-main.e1fe393f.js",
+    "runtime-main.js.map": "/ShafaghRastegari.github.io/static/js/runtime-main.e1fe393f.js.map",
+    "static/js/2.43528144.chunk.js": "/ShafaghRastegari.github.io/static/js/2.43528144.chunk.js",
+    "static/js/2.43528144.chunk.js.map": "/ShafaghRastegari.github.io/static/js/2.43528144.chunk.js.map",
+    "index.html": "/ShafaghRastegari.github.io/index.html",
+    "precache-manifest.9892d472d104c543a465ecd96392b698.js": "/ShafaghRastegari.github.io/precache-manifest.9892d472d104c543a465ecd96392b698.js",
+    "service-worker.js": "/ShafaghRastegari.github.io/service-worker.js",
+    "static/css/main.de04c303.chunk.css.map": "/ShafaghRastegari.github.io/static/css/main.de04c303.chunk.css.map",
+    "static/js/2.43528144.chunk.js.LICENSE.txt": "/ShafaghRastegari.github.io/static/js/2.43528144.chunk.js.LICENSE.txt",
+    "static/media/Shafagh.png": "/ShafaghRastegari.github.io/static/media/Shafagh.69498897.png",
+    "static/media/resume.pdf": "/ShafaghRastegari.github.io/static/media/resume.9d3da0e2.pdf"
   },
   "entrypoints": [
-    "static/js/runtime-main.68361c2f.js",
+    "static/js/runtime-main.e1fe393f.js",
     "static/js/2.43528144.chunk.js",
     "static/css/main.de04c303.chunk.css",
-    "static/js/main.367c1e0d.chunk.js"
+    "static/js/main.5a69df41.chunk.js"
   ]
 }
